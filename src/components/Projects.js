@@ -20,8 +20,8 @@ const Projects = () => {
         "A complete e-commerce platform inspired by Amazon with shopping cart, user authentication, payment integration, and order management system.",
       tags: ["React", "Express.js", "MongoDB", "Stripe", "CSS", "Firebase"],
       image: "/images/Amazon.jpg",
-      liveUrl: "https://hanna-amazon-project.netlify.app/",
-      githubUrl: "https://github.com/Hanna1916/My-Amazon-Clone.git",
+      liveUrl: "https://teal-dragon-df4d38.netlify.app/",
+      githubUrl: "https://github.com/Hanna1916/hanna-demo-store.git",
       featured: true,
     },
     {
